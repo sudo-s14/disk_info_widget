@@ -2,6 +2,8 @@
 
 A macOS widget that displays disk storage information on your desktop.
 
+![Disk Info Widget Screenshot](widget-screenshot.png)
+
 ## Requirements
 
 - macOS 14.0 (Sonoma) or later
